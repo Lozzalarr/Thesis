@@ -1,0 +1,102 @@
+{
+  "Version" : 1,
+  "NumBands" : ##,
+  "TileSizeX" : ##,
+  "TileSizeY" : ##,
+  "NumClasses" : ##,
+  "NumTiles" : ##,
+  "NumTilesAsDouble" : 0,
+  "NextTileIndex" : 0,
+  "OutputFeatures" : true,
+  "MetaDataMode" : "PASCAL_VOC_rectangles",
+  "MinCellSize" : {
+    "x" : 1,
+    "y" : 1,
+    "spatialReference" : {
+      "wkid" : null
+    }
+  },
+  "MaxCellSize" : {
+    "x" : 1,
+    "y" : 1,
+    "spatialReference" : {
+      "wkid" : null
+    }
+  },
+  "Classes" : [
+    {
+      "ClassValue" : "## YOUR CLASS VALUE ##",
+      "ClassName" : "YOUR CLASS",
+      "Color" : [
+        0,
+        0,
+        255
+      ]
+    }
+  ],
+  "FeatureStats" : {
+    "NumClasses" : ##,
+    "NumImagesTotal" : ##,
+    "NumFeaturesTotal" : ##,
+    "NumImagesPerClass" : [
+      ##
+    ],
+    "NumFeaturesPerClass" : [
+      ##
+    ],
+    "NumFeaturesPerImage" : {
+      "Min" : ##,
+      "Max" : ##,
+      "Mean" : ##,
+      "Sum" : ##,
+      "Count" : ## 
+    },
+    "FeatureAreaPerClass" : [
+      {
+        "Min" : ##,
+        "Max" : ##,
+        "Mean" : ##,
+        "Sum" : ##,
+        "Count" : ##
+      }
+    ]
+  },
+  "InputRastersProps" : {
+    "RasterCount" : 1,
+    "SensorName" : "Undefined",
+    "BandNames" : [
+      "Red",
+      "Green",
+      "Blue"
+    ]
+  },
+  "BandStatsState" : [
+    {
+      "Min" : ##,
+      "Max" : ##,
+      "Mean" : ##,
+      "StdDev" : ##,
+      "M1" : 0,
+      "M2" : 0,
+      "Num" : 0
+    },
+    {
+      "Min" : ##,
+      "Max" : ##,
+      "Mean" : ##,
+      "StdDev" : ##,
+      "M1" : 0,
+      "M2" : 0,
+      "Num" : 0
+    },
+    {
+      "Min" : 0,
+      "Max" : ##,
+      "Mean" : ##,
+      "StdDev" : ##,
+      "M1" : 0,
+      "M2" : 0,
+      "Num" : 0
+    }
+  ]
+}

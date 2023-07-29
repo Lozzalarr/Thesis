@@ -1,0 +1,8 @@
+images = ## *'bands'*'height'*'width'
+
+Class feature statistics:
+features = ##
+features per image = [min = ##, mean = ##, max = ##]
+classes = ##
+cls name                                 cls value    images   features     min size     mean size    max size    
+'Your class'					 #         #  	      #            #             #           #
