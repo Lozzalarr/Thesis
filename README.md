@@ -1,10 +1,10 @@
-# Deep learning and FMV in Arcgis from Roboflow
-
 TODO: 
 - add the tile fixing script and clean it up 
 - fix enviro.yaml file to work and for future to allow:
     - opencv-python
     - vrpy
+
+# Deep learning and FMV in Arcgis from Roboflow
 
 The purpose of this repository is to convert annotations from [Roboflow](https://roboflow.com/) into ESRI reading deep learning folders to be use ArcGIS pro/Arcgis Enterprise/Arcgis Online Notebooks.
 
@@ -14,9 +14,16 @@ This requires the exported annotations from roboflow to be in PASCAL VOC format.
 
 Use the sample data to test the notebooks and get familiar or go straight to using your own data from Roboflow.
 
-## install the Required Dependenices
+## Install the Required Dependenices
 
-pip install enviro.yaml
+Open Anaconda prompt and change directory to repository folder with this code:
+
+```cd /path/to/repository```
+
+
+install dependencies with conda using the enviro.yaml file     
+
+```conda env create -f enviro.yaml```
 
 ## Convert Roboflow to ESRI
 
