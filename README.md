@@ -1,6 +1,10 @@
 # Deep learning and FMV in Arcgis from Roboflow
 
-TODO: add the tile fixing script and clean it up 
+TODO: 
+- add the tile fixing script and clean it up 
+- fix enviro.yaml file to work and for future to allow:
+    - opencv-python
+    - vrpy
 
 The purpose of this repository is to convert annotations from [Roboflow](https://roboflow.com/) into ESRI reading deep learning folders to be use ArcGIS pro/Arcgis Enterprise/Arcgis Online Notebooks.
 
