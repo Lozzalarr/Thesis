@@ -4,7 +4,7 @@ TODO:
     - opencv-python
     - vrpy
 
-# Deep learning and FMV in Arcgis from Roboflow
+# Deep learning and FMV in ArcGIS from Roboflow Annotations
 
 The purpose of this repository is to convert annotations from [Roboflow](https://roboflow.com/) into ESRI reading deep learning folders to be use ArcGIS pro/Arcgis Enterprise/Arcgis Online Notebooks.
 
